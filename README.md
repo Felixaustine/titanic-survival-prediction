@@ -22,7 +22,7 @@ Given passenger information such as age, gender, class, and fare, can we predict
 
 ## Notebook
 You can view and run the notebook here:  
-👉 https://colab.research.google.com/github/Felixaustine/titanic-survival-prediction/blob/main/titanic_ml_model.ipynb
+https://colab.research.google.com/drive/1XbCr4jViX8D81cPF2-_ofotHQrkgqxPh?usp=sharing
 
 ## What I Learned
 - How to prepare real-world data for ML
